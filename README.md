@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    <p>Currently in WIP State.</p>
-  </body>
-</html>
+# My Page Title
+
+Currently in WIP State.
