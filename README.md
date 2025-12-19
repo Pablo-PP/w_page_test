@@ -1,3 +1,1 @@
-# My Page Title
-
-Currently in WIP State.
+"Veni, vidi, vici" - Julius Cäsar
